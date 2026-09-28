@@ -1,5 +1,9 @@
 # Lydia 脑洞小工具 · 说人话
 
+> **English summary:** A macOS communication assistant that turns ambiguous messages into action items, flags missing details, and drafts replies in your stated intent. AI-generated drafts are not sent automatically.
+>
+> **Current scope:** v0.9.0 is an Apple Silicon feature-validation build. The app interface and full usage guide are currently in Chinese.
+
 领导说了一大堆，所以到底要我干什么？
 
 「说人话」是一个 macOS 桌面小工具。它不只把一句话翻译得更白，而是把一次容易误解的沟通做完：先说明对方要什么、拆出要做的事，再按用户真正的意思生成回复，检查没有乱加承诺后放回原聊天输入框。
